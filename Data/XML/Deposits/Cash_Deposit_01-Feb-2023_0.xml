@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<depositReport>
+  <depositHeader>
+    <institutionCode>00232</institutionCode>
+    <reportingPersonId>PAgbale</reportingPersonId>
+    <reportingDate>2023-02-02</reportingDate>
+  </depositHeader>
+  <depositBody>
+    <transaction>
+        <transactionRef>TT23032V993N</transactionRef>
+        <branchSortCode>232170067</branchSortCode>
+        <transactionNarration>Cash Deposit By FEMI at MAGBORO BRA]NCH</transactionNarration>
+        <transactionTimestamp>2023-02-01T08:52:26</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>3800000.00</amount>
+        <tellerId>2464</tellerId>
+        <authorizerId>OSIBEJB04706</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>NEW AGE INTEGRATED ENTERPRISE</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0076635954</accountNumber>
+            <accountName>NEW AGE INTEGRATED ENTERPRISE</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22151051214</bvn_tin>
+            <phone>09048400000</phone>
+            <email></email>
+            <address>18 SEGULU BUS STOPNEW IFE ROAD OFF IWO ROAD.IBADANOYO STATE18 SEGULU BUS STOPNEW IFE ROAD OFF]IWO ROAD.IBADANOYO STATENG</address>
+            <balance>75469.92</balance>
+            <accountOpeningDate>2020-03-12T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032MXW09</transactionRef>
+        <branchSortCode>232170067</branchSortCode>
+        <transactionNarration>Cash Deposit By KEN GAS WELL LIMITE]D at MAGBORO BRANCH</transactionNarration>
+        <transactionTimestamp>2023-02-01T09:12:47</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>3600000.00</amount>
+        <tellerId>2464</tellerId>
+        <authorizerId>OSIBEJB04706</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>KEN GAS WELL LIMITED</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0071490163</accountNumber>
+            <accountName>KEN GAS WELL LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22248257448</bvn_tin>
+            <phone>08169960741</phone>
+            <email></email>
+            <address>11 OKE CELE STREET BY OKE CELE BUS STOP.IBAFO,OGUN STATE11 OKE CELE STREET BY OKE CELE BUS]STOP.IBAFOOGUN STATENG</address>
+            <balance>2678005.3</balance>
+            <accountOpeningDate>2019-02-27T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032VB97D</transactionRef>
+        <branchSortCode>232150812</branchSortCode>
+        <transactionNarration>Cash Deposit By AMAO TAOFEEK at KET]U</transactionNarration>
+        <transactionTimestamp>2023-02-01T09:13:34</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1242150.00</amount>
+        <tellerId>0684</tellerId>
+        <authorizerId>OBILPJB03262</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>AMAO</firstName>
+            <middleName></middleName>
+            <lastName>TAOFEEK</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0072469746</accountNumber>
+            <accountName>T-TIME PETROLEUM SERVICES</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22269549254</bvn_tin>
+            <phone>08033056916</phone>
+            <email></email>
+            <address>336,21RD,FESTAC TOWN,LAGOS.NNPC MEGA STATION,2ND RAINBOW.NIGERIA</address>
+            <balance>31366830.81</balance>
+            <accountOpeningDate>2019-05-17T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032NJ7FM</transactionRef>
+        <branchSortCode>232170038</branchSortCode>
+        <transactionNarration>Cash Deposit By OLALEKAN WASIU SANU]SI at IJEBU-ODE</transactionNarration>
+        <transactionTimestamp>2023-02-01T09:17:29</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1544500.00</amount>
+        <tellerId>1089</tellerId>
+        <authorizerId>AKINLJB03640</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>OLALEKAN WASIU</firstName>
+            <middleName></middleName>
+            <lastName>SANUSI</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn>22202933041</bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0024491915</accountNumber>
+            <accountName>OLALEKAN WASIU SANUSI</accountName>
+            <accountType>savings</accountType>
+            <bvn_tin>22202933041</bvn_tin>
+            <phone>08060659425</phone>
+            <email></email>
+            <address>7 AGBON ST.IKOTO ALEDO ILESEIJEBU ODENG</address>
+            <balance>984566.71</balance>
+            <accountOpeningDate>2014-02-05T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032N821Q</transactionRef>
+        <branchSortCode>232170054</branchSortCode>
+        <transactionNarration>Cash Deposit By KELECHI at OGIJO</transactionNarration>
+        <transactionTimestamp>2023-02-01T09:25:48</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1228000.00</amount>
+        <tellerId>0725</tellerId>
+        <authorizerId>IBIROJB01792</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>KELECHI</firstName>
+            <middleName></middleName>
+            <lastName>KELECHI</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0074949129</accountNumber>
+            <accountName>PRONIK MULTIBUSINESS ENT.</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22146230653</bvn_tin>
+            <phone>08034034397</phone>
+            <email></email>
+            <address>31 SHAGAMU ROAD OPPOSITE ST.JOHN PR IMARY SCHOOL, OGIJO, OGUN STATE31 SHAGAMU ROAD OPPOSITE ST.JOHN PR]IMARY SCHOOL OGIJO OGUN STATENG</address>
+            <balance>773773.1</balance>
+            <accountOpeningDate>2019-10-25T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032783LT</transactionRef>
+        <branchSortCode>232150430</branchSortCode>
+        <transactionNarration>Cash Deposit By SOLOMON at IKORODU</transactionNarration>
+        <transactionTimestamp>2023-02-01T09:37:12</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1600100.00</amount>
+        <tellerId>0635</tellerId>
+        <authorizerId>ADELAJB03529</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>IWORLD TRANSIT SOLUTION LIMITE</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0060022801</accountNumber>
+            <accountName>IWORLD TRANSIT SOLUTIONS LIMITED </accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22178940504</bvn_tin>
+            <phone>08034906307</phone>
+            <email></email>
+            <address>18A, ELSIE FEMI PEARSE STREETVICTORIA ISLANDNIGERIA</address>
+            <balance>517628.87</balance>
+            <accountOpeningDate>2016-09-14T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT2303275WSK</transactionRef>
+        <branchSortCode>232150430</branchSortCode>
+        <transactionNarration>Cash Deposit By SOLOMON at IKORODU</transactionNarration>
+        <transactionTimestamp>2023-02-01T10:21:08</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1400000.00</amount>
+        <tellerId>0635</tellerId>
+        <authorizerId>ADELAJB03529</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>IWORLD TRANSIT SOLUTION LIMITE</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0060022801</accountNumber>
+            <accountName>IWORLD TRANSIT SOLUTIONS LIMITED </accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22178940504</bvn_tin>
+            <phone>08034906307</phone>
+            <email></email>
+            <address>18A, ELSIE FEMI PEARSE STREETVICTORIA ISLANDNIGERIA</address>
+            <balance>517628.87</balance>
+            <accountOpeningDate>2016-09-14T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT230320YD1S</transactionRef>
+        <branchSortCode>232190128</branchSortCode>
+        <transactionNarration>Cash Deposit By SHOBOS SHARON GLOBA]L VENTURES at APATA - IBADAN</transactionNarration>
+        <transactionTimestamp>2023-02-01T10:24:16</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1700000.00</amount>
+        <tellerId>1097</tellerId>
+        <authorizerId>CHINAJB02126</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>SHOBOS SHARON GLOBAL VENTURES</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0050246596</accountNumber>
+            <accountName>SHOBOS SHARON GLOBAL VENTURES</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22189338938</bvn_tin>
+            <phone>08036818272</phone>
+            <email></email>
+            <address>PLOT 14,ROAD 2 OWODE ESTATE2ND GATE3 APATA, IBADANNIGERIA</address>
+            <balance>38719902.26</balance>
+            <accountOpeningDate>2016-01-29T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032K2LGK</transactionRef>
+        <branchSortCode>232151044</branchSortCode>
+        <transactionNarration>Cash Deposit By FUNMI at IKOTUN BRA]NCH</transactionNarration>
+        <transactionTimestamp>2023-02-01T10:25:50</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1004300.00</amount>
+        <tellerId>2507</tellerId>
+        <authorizerId>ADEMUJB04162</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>FUNMI</firstName>
+            <middleName></middleName>
+            <lastName>FUNMI</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0064205840</accountNumber>
+            <accountName>DARUJO VENTURES</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22250909847</bvn_tin>
+            <phone>08023221800</phone>
+            <email></email>
+            <address>1/2 TANIMOWO STREET OFF IGANDO ROAD1/3 TANIMOWO STREET OFF IGANDO ROAD]IKOTUNNG</address>
+            <balance>24126008.39</balance>
+            <accountOpeningDate>2017-04-03T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032NMKW0</transactionRef>
+        <branchSortCode>232150430</branchSortCode>
+        <transactionNarration>Cash Deposit By SOLOMON at IKORODU</transactionNarration>
+        <transactionTimestamp>2023-02-01T11:25:32</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1293650.00</amount>
+        <tellerId>0635</tellerId>
+        <authorizerId>ADELAJB03529</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>IWORLD TRANSIT SOLUTION LIMITE</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0060022801</accountNumber>
+            <accountName>IWORLD TRANSIT SOLUTIONS LIMITED </accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22178940504</bvn_tin>
+            <phone>08034906307</phone>
+            <email></email>
+            <address>18A, ELSIE FEMI PEARSE STREETVICTORIA ISLANDNIGERIA</address>
+            <balance>517628.87</balance>
+            <accountOpeningDate>2016-09-14T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032WZZSN</transactionRef>
+        <branchSortCode>232150812</branchSortCode>
+        <transactionNarration>Cash Deposit By SIKIRU at KETU</transactionNarration>
+        <transactionTimestamp>2023-02-01T11:58:14</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>3948160.00</amount>
+        <tellerId>0684</tellerId>
+        <authorizerId>OBILPJB03262</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>SIKIRU</firstName>
+            <middleName></middleName>
+            <lastName>SIKIRU</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0064921809</accountNumber>
+            <accountName>MICHIGAN LOGISTICS SERVICES </accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22158066361</bvn_tin>
+            <phone>08185644043</phone>
+            <email></email>
+            <address>2 RUFUS LANIYAN STREET IDERA BUSSTOP IKORODU ROADNIGERIA</address>
+            <balance>47439730.77</balance>
+            <accountOpeningDate>2017-06-08T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT230328KWMT</transactionRef>
+        <branchSortCode>232170054</branchSortCode>
+        <transactionNarration>Cash Deposit By PMS at OGIJO</transactionNarration>
+        <transactionTimestamp>2023-02-01T12:01:44</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>2914060.00</amount>
+        <tellerId>0725</tellerId>
+        <authorizerId>IBIROJB01792</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>PMS</firstName>
+            <middleName></middleName>
+            <lastName>PMS</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0060898019</accountNumber>
+            <accountName>ACCURATE GLOBAL ENERGY AND GAS LTD </accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22147870784</bvn_tin>
+            <phone>08083089070</phone>
+            <email></email>
+            <address>13 OLUGUYAN STREET IRE-AKARIESTATE ISOLONIGERIA</address>
+            <balance>33284701.93</balance>
+            <accountOpeningDate>2016-10-10T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032NTQKT</transactionRef>
+        <branchSortCode>232320024</branchSortCode>
+        <transactionNarration>Cash Deposit By JOHN OBIOMA OKOLI a]t MELFORD OKILO ROAD</transactionNarration>
+        <transactionTimestamp>2023-02-01T12:01:51</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1059000.00</amount>
+        <tellerId>1877</tellerId>
+        <authorizerId>OKANUJB04334</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>JOHN OBIOMA</firstName>
+            <middleName></middleName>
+            <lastName>OKOLI</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn>22316991591</bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0073893957</accountNumber>
+            <accountName>JOHN OBIOMA OKOLI</accountName>
+            <accountType>savings</accountType>
+            <bvn_tin>22316991591</bvn_tin>
+            <phone>08089487845</phone>
+            <email></email>
+            <address>16, BIYI ADEYINKA STREETAJANGBADI OKOMAIKONIGERIA</address>
+            <balance>242785.23</balance>
+            <accountOpeningDate>2019-08-20T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT2303257TQV</transactionRef>
+        <branchSortCode>232170070</branchSortCode>
+        <transactionNarration>Cash Deposit By DOWODUNNI MOTORS at] SAGAMU BRANCH</transactionNarration>
+        <transactionTimestamp>2023-02-01T12:57:18</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1400000.00</amount>
+        <tellerId>2567</tellerId>
+        <authorizerId>AFOLAJB04224</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>DOWODUNNI MOTORS</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0072723996</accountNumber>
+            <accountName>DOWODUNNI MOTORS</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22172515629</bvn_tin>
+            <phone>08033211721</phone>
+            <email></email>
+            <address>14 ARAROMI STREET NEW ROAD IJEBU-OD^E14 ARAROMI STREET NEW ROAD IJEBU-OD]ENG</address>
+            <balance>2106.39</balance>
+            <accountOpeningDate>2019-06-11T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032SPPTV</transactionRef>
+        <branchSortCode>232040126</branchSortCode>
+        <transactionNarration>Cash Deposit By DENNIS IBOMEN at IK]POBA HILL</transactionNarration>
+        <transactionTimestamp>2023-02-01T13:03:42</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1438790.00</amount>
+        <tellerId>1643</tellerId>
+        <authorizerId>ALUEBJB01618</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>DENNIS</firstName>
+            <middleName></middleName>
+            <lastName>IBOMEN</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0069912718</accountNumber>
+            <accountName>F.A.S.T MICROFINANCE BANK LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22152034102</bvn_tin>
+            <phone>08149578674</phone>
+            <email></email>
+            <address>32 SAKPONBA ROAD32 SAKPONBA ROADNG</address>
+            <balance>15289646.95</balance>
+            <accountOpeningDate>2018-10-30T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032CKLS0</transactionRef>
+        <branchSortCode>232230088</branchSortCode>
+        <transactionNarration>Cash Deposit By PEACE at EZIUKWU RD] - ABA</transactionNarration>
+        <transactionTimestamp>2023-02-01T13:25:43</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1724485.00</amount>
+        <tellerId>5344</tellerId>
+        <authorizerId>ESSIEJB04466</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>C. IFEANYI ONYEMS N SONS</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0088820320</accountNumber>
+            <accountName>C. IFEANYI ONYEMS N SONS</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22247344503</bvn_tin>
+            <phone>08033393779</phone>
+            <email></email>
+            <address>NO 1 CEMETRY MARKET ABANO 1 CEMETRY MARKET ABANG</address>
+            <balance>-9483171.32</balance>
+            <accountOpeningDate>2022-05-12T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032V7G0Y</transactionRef>
+        <branchSortCode>232090024</branchSortCode>
+        <transactionNarration>Cash Deposit By MUSTAPHA BUKAR at J]IMETA</transactionNarration>
+        <transactionTimestamp>2023-02-01T13:31:28</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>3900000.00</amount>
+        <tellerId>2441</tellerId>
+        <authorizerId>MUHAMJB03285</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>MUSTAPHA</firstName>
+            <middleName></middleName>
+            <lastName>BUKAR</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0067344515</accountNumber>
+            <accountName>WHITE LIGHT BAKERY</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22221830787</bvn_tin>
+            <phone>08032505186</phone>
+            <email></email>
+            <address>NO2 OPPOSITE BARUNDE JUNCTIONNO2 OPPOSITE BARUNDE JUNCTIONNG</address>
+            <balance>4968884.42</balance>
+            <accountOpeningDate>2018-02-16T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT2303287YT9</transactionRef>
+        <branchSortCode>232170012</branchSortCode>
+        <transactionNarration>Cash Deposit By TAIWO at ABEOKUTA]TAIWO</transactionNarration>
+        <transactionTimestamp>2023-02-01T13:38:44</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1600000.00</amount>
+        <tellerId>1069</tellerId>
+        <authorizerId>ORUNMJB04222</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>PROGRESS FISH ENTERPRISE</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0076356925</accountNumber>
+            <accountName>PROGRESS FISH ENTERPRISE</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22278659890</bvn_tin>
+            <phone>08111111987</phone>
+            <email></email>
+            <address>519 LAGOS ABEOKUTA EXPRESSWAY ABULE EGBA519 LAGOS ABEOKUTA EXPRESSWAY ABULE]EGBANG</address>
+            <balance>41047256.69</balance>
+            <accountOpeningDate>2020-02-17T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032WDHCP</transactionRef>
+        <branchSortCode>232150184</branchSortCode>
+        <transactionNarration>Cash Deposit By IFE at OJUWOYE BRAN]CH</transactionNarration>
+        <transactionTimestamp>2023-02-01T14:09:13</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1229550.00</amount>
+        <tellerId>2586</tellerId>
+        <authorizerId>IKWELJB03903</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>FAMIGLIA ENIGMA VENTURES</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0082709056</accountNumber>
+            <accountName>FAMIGLIA ENIGMA VENTURES</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22256824384</bvn_tin>
+            <phone>08033021250</phone>
+            <email></email>
+            <address>44 OJUWOYE STREET MUSHIN44 OJUWOYE STREET MUSHINNG</address>
+            <balance>3864815.43</balance>
+            <accountOpeningDate>2021-05-25T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT230321SPYC</transactionRef>
+        <branchSortCode>232170096</branchSortCode>
+        <transactionNarration>Cash Deposit By eBILLS- SWIFT OIL a]t OTA</transactionNarration>
+        <transactionTimestamp>2023-02-01T14:44:58</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1449690.00</amount>
+        <tellerId>1186</tellerId>
+        <authorizerId>AJAYI0004713</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>eBILLS- SWIFT</firstName>
+            <middleName></middleName>
+            <lastName>OIL</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0074874287</accountNumber>
+            <accountName>E-PAYMENT TILL  CHIMEZIE OKEKE</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>00000000000</bvn_tin>
+            <phone>NIL</phone>
+            <email></email>
+            <address>20 MARINA20 MARINANG</address>
+            <balance>0</balance>
+            <accountOpeningDate>2019-10-21T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032PN3F3</transactionRef>
+        <branchSortCode>232080092</branchSortCode>
+        <transactionNarration>Cash Deposit By IBRAHIM at STERLING] BOULEVARD</transactionNarration>
+        <transactionTimestamp>2023-02-01T15:08:16</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>3368420.00</amount>
+        <tellerId>1959</tellerId>
+        <authorizerId>YUNUS0003513</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>IBRAHIM</firstName>
+            <middleName></middleName>
+            <lastName>IBRAHIM</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0075263639</accountNumber>
+            <accountName>ASPIRE ENERGY LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22297338305</bvn_tin>
+            <phone>08037808000</phone>
+            <email></email>
+            <address>31B MARINE ROAD APAPA LAGOS31B MARINE ROAD APAPA LAGOSNG</address>
+            <balance>-4649</balance>
+            <accountOpeningDate>2019-11-20T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032HP8JM</transactionRef>
+        <branchSortCode>232080021</branchSortCode>
+        <transactionNarration>Cash Deposit By ASPIRE ENERGY,JABI ]BY TOPE at MAMMAN KONTAGORA CLOSE</transactionNarration>
+        <transactionTimestamp>2023-02-01T15:27:25</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>2212650.00</amount>
+        <tellerId>1936</tellerId>
+        <authorizerId>YAKUB0003928</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>ASPIRE ENERGY,JABI BY</firstName>
+            <middleName></middleName>
+            <lastName>TOPE</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0079516405</accountNumber>
+            <accountName>PAUL</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>00000000000</bvn_tin>
+            <phone>0</phone>
+            <email></email>
+            <address>20 MARINA, LAGOS20 MARINA, LAGOSNIGERIA</address>
+            <balance>0</balance>
+            <accountOpeningDate>2020-10-21T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032D7FJH</transactionRef>
+        <branchSortCode>232080021</branchSortCode>
+        <transactionNarration>Cash Deposit By MRS GADUWA-10013513] at MAMMAN KONTAGORA CLOSE</transactionNarration>
+        <transactionTimestamp>2023-02-01T15:51:46</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1060300.00</amount>
+        <tellerId>1936</tellerId>
+        <authorizerId>OKPANJB01083</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>MRS OIL NIGERIA PLC MRS OIL N</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0022956535</accountNumber>
+            <accountName>MRS OIL NIGERIA PLC  MRS OIL NIGERIA PLC</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22178106599</bvn_tin>
+            <phone>0811219401</phone>
+            <email></email>
+            <address>8 MACARTHY STREET, ONIKANLAGOS.NIGERIA</address>
+            <balance>540541465.64</balance>
+            <accountOpeningDate>2013-10-14T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032JBJYM</transactionRef>
+        <branchSortCode>232170096</branchSortCode>
+        <transactionNarration>Cash Deposit By OJELABI TAIWO at OT]A</transactionNarration>
+        <transactionTimestamp>2023-02-01T15:52:38</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1170400.00</amount>
+        <tellerId>1186</tellerId>
+        <authorizerId>LONGEJB01500</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>OJELABI</firstName>
+            <middleName></middleName>
+            <lastName>TAIWO</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0055534874</accountNumber>
+            <accountName>SWIFT OIL LIMITED  SWIFT OIL LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22146442704</bvn_tin>
+            <phone>08033008094</phone>
+            <email></email>
+            <address>882 MARINE ROADAPAPA GRANG</address>
+            <balance>6156729.12</balance>
+            <accountOpeningDate>2016-05-06T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT230329HPCL</transactionRef>
+        <branchSortCode>232020036</branchSortCode>
+        <transactionNarration>Cash Deposit By Nnodim and bros at ]PORTHARCOURT ROAD ONIT</transactionNarration>
+        <transactionTimestamp>2023-02-01T15:54:32</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1303800.00</amount>
+        <tellerId>1458</tellerId>
+        <authorizerId>DARAM0003234</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>Nnodim and</firstName>
+            <middleName></middleName>
+            <lastName>bros</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0071468254</accountNumber>
+            <accountName>ACE FROZEN FOOD VENTURES LIMITED  ACE FROZEN FOOD VENTURES LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22226036559</bvn_tin>
+            <phone>08058602012</phone>
+            <email></email>
+            <address>223/225 APAPA ROAD IGANMU LAGOS223/225 APAPA ROAD IGANMU LAGOSNG</address>
+            <balance>31501</balance>
+            <accountOpeningDate>2019-02-25T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032SGZ6Z</transactionRef>
+        <branchSortCode>232150812</branchSortCode>
+        <transactionNarration>Cash Deposit By SOLOMON ADEBAYO at ]KETU</transactionNarration>
+        <transactionTimestamp>2023-02-01T15:59:27</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1240000.00</amount>
+        <tellerId>0680</tellerId>
+        <authorizerId>IBRAHJB04705</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>SOLOMON</firstName>
+            <middleName></middleName>
+            <lastName>ADEBAYO</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0060022801</accountNumber>
+            <accountName>IWORLD TRANSIT SOLUTIONS LIMITED </accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22178940504</bvn_tin>
+            <phone>08034906307</phone>
+            <email></email>
+            <address>18A, ELSIE FEMI PEARSE STREETVICTORIA ISLANDNIGERIA</address>
+            <balance>517628.87</balance>
+            <accountOpeningDate>2016-09-14T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032YZ72L</transactionRef>
+        <branchSortCode>232170012</branchSortCode>
+        <transactionNarration>Cash Deposit By fumilola at ABEOKUT]A</transactionNarration>
+        <transactionTimestamp>2023-02-01T16:08:48</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>2051700.00</amount>
+        <tellerId>1074</tellerId>
+        <authorizerId>SANUSJB04628</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>PRECIOUS PHARMACY AND STORES N</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0077250848</accountNumber>
+            <accountName>PRECIOUS PHARMACY AND STORES NIGERI</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22228914132</bvn_tin>
+            <phone>08033184095</phone>
+            <email></email>
+            <address>114 AWOLOWO AVENUE OMIDA IBARA ABK114 AWOLOWO AVENUE OMIDA IBARA ABKNG</address>
+            <balance>9727705.7</balance>
+            <accountOpeningDate>2020-06-02T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT2303230JP4</transactionRef>
+        <branchSortCode>232150155</branchSortCode>
+        <transactionNarration>Cash Deposit By EHUMS BUSINESS ENTE]RPRISE at WILLOUGHBY- EBUTE</transactionNarration>
+        <transactionTimestamp>2023-02-01T16:14:57</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1050000.00</amount>
+        <tellerId>0860</tellerId>
+        <authorizerId>RASAQJB01728</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>EHUMS BUSINESS ENTERPRISE</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0074721800</accountNumber>
+            <accountName>EHUMS BUSINESS ENTERPRISE</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22150653644</bvn_tin>
+            <phone>08033352803</phone>
+            <email></email>
+            <address>BLOCK A12 WHITESAND MARKET OYINGBO EBUTTE METTABLOCK A12 WHITESAND MARKET OYINGBO]EBUTTE METTANG</address>
+            <balance>6902105.09</balance>
+            <accountOpeningDate>2019-10-11T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032NCRQZ</transactionRef>
+        <branchSortCode>232150427</branchSortCode>
+        <transactionNarration>Cash Deposit By MR OMOTOSHO SALES a]t BAKKY PLAZA - LEKKI</transactionNarration>
+        <transactionTimestamp>2023-02-01T16:19:21</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>2037350.00</amount>
+        <tellerId>0229</tellerId>
+        <authorizerId>OJEKEJB04068</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>TOPDARA STORE</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0077854837</accountNumber>
+            <accountName>TOPDARA STORE</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22298908697</bvn_tin>
+            <phone>08083323419</phone>
+            <email></email>
+            <address>5A, SURVEYOR JOSEPH AMADI STREET, O FF CHEVY VIEW ESTATE, LAGOS5A]CHEVY VIEW ESTATE LAGOSNG</address>
+            <balance>-74279796.4</balance>
+            <accountOpeningDate>2020-07-08T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032KZS3J</transactionRef>
+        <branchSortCode>232150304</branchSortCode>
+        <transactionNarration>Cash Deposit By 31211209 at AWOLOWO] WAY - IKJ</transactionNarration>
+        <transactionTimestamp>2023-02-01T16:29:21</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>2800000.00</amount>
+        <tellerId>0607</tellerId>
+        <authorizerId>AYENIJB04267</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>MRS OIL NIGERIA PLC</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0022956535</accountNumber>
+            <accountName>MRS OIL NIGERIA PLC  MRS OIL NIGERIA PLC</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22178106599</bvn_tin>
+            <phone>0811219401</phone>
+            <email></email>
+            <address>8 MACARTHY STREET, ONIKANLAGOS.NIGERIA</address>
+            <balance>540541465.64</balance>
+            <accountOpeningDate>2013-10-14T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032Y6LJQ</transactionRef>
+        <branchSortCode>232080092</branchSortCode>
+        <transactionNarration>Cash Deposit By MR HASSAN AKEEM at ]STERLING BOULEVARD</transactionNarration>
+        <transactionTimestamp>2023-02-01T16:37:25</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1547623.00</amount>
+        <tellerId>2059</tellerId>
+        <authorizerId>YUNUS0003513</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>MR HASSAN</firstName>
+            <middleName></middleName>
+            <lastName>AKEEM</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0075263505</accountNumber>
+            <accountName>ASPIRE ENERGY LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22297338305</bvn_tin>
+            <phone>08037808000</phone>
+            <email></email>
+            <address>31B MARINE ROAD APAPA LAGOS31B MARINE ROAD APAPA LAGOSNG</address>
+            <balance>1</balance>
+            <accountOpeningDate>2019-11-20T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032P5PV1</transactionRef>
+        <branchSortCode>232151031</branchSortCode>
+        <transactionNarration>Cash Deposit By PETER AGO at Festac</transactionNarration>
+        <transactionTimestamp>2023-02-01T16:39:02</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1004300.00</amount>
+        <tellerId>0486</tellerId>
+        <authorizerId>AKANMJB04268</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>TECHNO OIL LIMITED</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0077795523</accountNumber>
+            <accountName>TECHNO OIL LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22206782427</bvn_tin>
+            <phone>08039771952</phone>
+            <email></email>
+            <address>7B PRINCE ALABA ABIODUN ONIRU ROAD^VICTORIA ISLAND LAGOS7B PRINCE ALABA ABIODUN ONIRU ROAD]VICTORIA ISLAND LAGOSNG</address>
+            <balance>518110608.01</balance>
+            <accountOpeningDate>2020-07-06T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT230327ZVMP</transactionRef>
+        <branchSortCode>232050019</branchSortCode>
+        <transactionNarration>Cash Deposit By SHOLA POPOOLA at MA]KURDI</transactionNarration>
+        <transactionTimestamp>2023-02-01T16:51:59</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1651410.00</amount>
+        <tellerId>2176</tellerId>
+        <authorizerId>ATTAHJB04755</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>SHOLA</firstName>
+            <middleName></middleName>
+            <lastName>POPOOLA</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0013164228</accountNumber>
+            <accountName>PAUL EGAH OKWOLI</accountName>
+            <accountType>savings</accountType>
+            <bvn_tin>22162417854</bvn_tin>
+            <phone>07082597165</phone>
+            <email></email>
+            <address>15 LANE 5 OBANDE YOUGH STREETNYIMAN LAYOUT MAKURDINIGERIA</address>
+            <balance>3065624.41</balance>
+            <accountOpeningDate>2009-06-11T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT2303213K4P</transactionRef>
+        <branchSortCode>232100053</branchSortCode>
+        <transactionNarration>Cash Deposit By TEAM E at DOUGLAS R]D - OWERRI</transactionNarration>
+        <transactionTimestamp>2023-02-01T16:54:00</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1504820.00</amount>
+        <tellerId>5314</tellerId>
+        <authorizerId>WEGHGJB04693</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>FRANCHISE VEHICLE OWNERS ASS.I</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0078859860</accountNumber>
+            <accountName>FRANCHISE VEHICLE OWNERS ASS.IMO  FRANCHISE VEHICLE OWNERS ASS.IMO</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22257841883</bvn_tin>
+            <phone>08036723300</phone>
+            <email></email>
+            <address>6B ENI-NJOKU STRET IKENEGBU LAYOUT OWERRI6B ENI-NJOKU STRET IKENEGBU LAYOUT]OWERRING</address>
+            <balance>111497603.89</balance>
+            <accountOpeningDate>2020-09-01T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032N7R8L</transactionRef>
+        <branchSortCode>232150236</branchSortCode>
+        <transactionNarration>Cash Deposit By 093/P/043 at IDIMU]093/P/043</transactionNarration>
+        <transactionTimestamp>2023-02-01T17:03:01</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1996500.00</amount>
+        <tellerId>0752</tellerId>
+        <authorizerId>IBRAHJB02062</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>BOVAS AND COMPANY LIMITED</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0055501360</accountNumber>
+            <accountName>BOVAS AND COMPANY LIMITED  BOVAS AND COMPANY LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22165447953</bvn_tin>
+            <phone>01-2120050</phone>
+            <email></email>
+            <address>296A, KOFO ABAYOMI STREET,VICTORIA ISLAND,LAGOSNIGERIA</address>
+            <balance>34772263.37</balance>
+            <accountOpeningDate>2016-05-03T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT230321WV12</transactionRef>
+        <branchSortCode>232080092</branchSortCode>
+        <transactionNarration>Cash Deposit By MUHAMMED at STERLIN]G BOULEVARD</transactionNarration>
+        <transactionTimestamp>2023-02-01T17:11:18</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>7939220.00</amount>
+        <tellerId>1959</tellerId>
+        <authorizerId>YUNUS0003513</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>MUHAMMED</firstName>
+            <middleName></middleName>
+            <lastName>MUHAMMED</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0075263392</accountNumber>
+            <accountName>ASPIRE ENERGY LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22297338305</bvn_tin>
+            <phone>08037808000</phone>
+            <email></email>
+            <address>31B MARINE ROAD APAPA LAGOS31B MARINE ROAD APAPA LAGOSNG</address>
+            <balance>-13749</balance>
+            <accountOpeningDate>2019-11-20T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032G0WTJ</transactionRef>
+        <branchSortCode>232210095</branchSortCode>
+        <transactionNarration>Cash Deposit By UPTH COLLECTION 1.0]2.2023 at UPTH</transactionNarration>
+        <transactionTimestamp>2023-02-01T17:17:30</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>1474310.00</amount>
+        <tellerId>1790</tellerId>
+        <authorizerId>EMONEJB00857</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromEntity>
+            <name>PATIENT S DEPOSIT ACCOUNT</name>
+            <incorporationNumber></incorporationNumber>
+            <tin></tin>
+            <businessAddress></businessAddress>
+            <phone></phone>
+            <email></email>
+        </fromEntity>
+        <toAccount>
+            <accountNumber>0049363464</accountNumber>
+            <accountName>PATIENT S DEPOSIT ACCOUNT </accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22166643967</bvn_tin>
+            <phone>0000000000</phone>
+            <email></email>
+            <address>UPTHPORTHARCOURTNIGERIA</address>
+            <balance>7888640.86</balance>
+            <accountOpeningDate>2016-01-04T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT23032WXRFP</transactionRef>
+        <branchSortCode>232100053</branchSortCode>
+        <transactionNarration>Cash Deposit By UGOCHUKWU SUNDAY at] DOUGLAS RD - OWERRI</transactionNarration>
+        <transactionTimestamp>2023-02-01T17:33:48</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>6360000.00</amount>
+        <tellerId>1310</tellerId>
+        <authorizerId>ODOEMJB02026</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>UGOCHUKWU</firstName>
+            <middleName></middleName>
+            <lastName>SUNDAY</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0089306430</accountNumber>
+            <accountName>GIONS GLOBAL SYNDICATED ENTERPRISE</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22210738920</bvn_tin>
+            <phone>08033469957</phone>
+            <email></email>
+            <address>KM4 ABA ROAD NAZE OWERRI NORTH IMO^STATE.KM4 ABA ROAD NAZE OWERRI NORTH IMO]STATE.NG</address>
+            <balance>237576839.97</balance>
+            <accountOpeningDate>2022-06-17T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+    <transaction>
+        <transactionRef>TT230324WFT0</transactionRef>
+        <branchSortCode>232080092</branchSortCode>
+        <transactionNarration>Cash Deposit By DAVID at STERLING B]OULEVARD</transactionNarration>
+        <transactionTimestamp>2023-02-01T17:38:22</transactionTimestamp>
+        <currencyType>NGN</currencyType>
+        <amount>3635970.00</amount>
+        <tellerId>1959</tellerId>
+        <authorizerId>YUNUS0003513</authorizerId>
+        <postingDate>2023-02-01</postingDate>
+        <valueDate>2023-02-01</valueDate>
+        <fromPerson>
+            <firstName>DAVID</firstName>
+            <middleName></middleName>
+            <lastName>DAVID</lastName>
+            <phone></phone>
+            <email></email>
+            <bvn></bvn>
+            <nationality></nationality>
+            <identificationType></identificationType>
+            <identificationNumber></identificationNumber>
+            <address></address>
+        </fromPerson>
+        <toAccount>
+            <accountNumber>0075263598</accountNumber>
+            <accountName>ASPIRE ENERGY LIMITED</accountName>
+            <accountType>current</accountType>
+            <bvn_tin>22297338305</bvn_tin>
+            <phone>08037808000</phone>
+            <email></email>
+            <address>31B MARINE ROAD APAPA LAGOS31B MARINE ROAD APAPA LAGOSNG</address>
+            <balance>1</balance>
+            <accountOpeningDate>2019-11-20T00:00:00</accountOpeningDate>
+            <beneficiary></beneficiary>
+        </toAccount>
+    </transaction>
+  </depositBody>
+</depositReport>
